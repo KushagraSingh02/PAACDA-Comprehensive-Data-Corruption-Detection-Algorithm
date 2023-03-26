@@ -1,5 +1,7 @@
 # PAACDA-Comprehensive-Data-Corruption-Detection-Algorithm
 
+LINK TO THE JOURNAL PAPER : https://ieeexplore.ieee.org/document/10058962
+
 
 This repo was developed as a part of research towards a journal discussing the importance of identifying corrupted data in datasets for effective data analysis and processing with machine learning algorithms. The authors introduce a new algorithm called PAACDA( Proximity based Adamic Adar Corruption Detection Algorithm) for detecting corrupted data in linear and clustered datasets, which outperforms other benchmarks with high accuracy. The article also highlights the limitations of current techniques and suggests avenues for future research in this area.
 
